@@ -24,7 +24,7 @@ h1 .seo {
     color: #d9dcd6;
 }
 
-header section{
+header nav{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,19 +32,13 @@ header section{
     font-size: 20px;
 }
 
-header section ul{
+header nav ul{
     list-style-type: none;
 }
 
-header section ul li{
+header nav ul li{
     display: inline-block;
     margin-left: 25px;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 a {
@@ -86,7 +80,11 @@ footer h2 {
     margin-left: 25px;
 }
 
-
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .benefits {
     margin-right: 20px;
