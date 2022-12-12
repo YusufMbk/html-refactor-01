@@ -2,7 +2,7 @@
 
 ## Description 
 
-I refactored the code to make it more accessible by replacing <divs> with more semantic elements and removing unnessecary lines in the CSS. By doing this, the code becomes a lot more readable and much easier to understand.
+I refactored the code to make it more accessible by replacing '<divs>'with more semantic elements and removing unnessecary lines in the CSS. By doing this, the code becomes a lot more readable and much easier to understand.
 
 # Repo Link
 
